@@ -1,0 +1,19 @@
+{
+  "name": "api-rpc",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "William",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.9.8",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "description": ""
+}
